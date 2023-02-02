@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnzoMarques
-- 👀 I’m interested in HTML, CSS, JS, and ReactJS!
+- 👀 I’m interested in HTML5, CSS3, JS, and ReactJS!
 - 🌱 I’m currently learning front-end development!
 - 💞️ I’m a Front-End developer!
 - 📫 How to reach me in my e-mail enzo.contato@live.com
